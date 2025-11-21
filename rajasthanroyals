@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Power BI Report</title>
+</head>
+<body>
+    <h1>Power BI Report by Aniruddha Gaikwad (aniruddhagaikwad123@gmail.com)</h1>
+    <iframe title="Space_Analytics" width="1600" height="820.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTNkNWIwZDktNjY0YS00Mjc5LWJmNTItNTNmYjEzZTA2ZjcyIiwidCI6IjllYzVkYzg5LWIxZTMtNGZlMS05NWJlLTQxZTQ5N2NlNWE3MCJ9" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
